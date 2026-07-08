@@ -115,7 +115,7 @@ SAMCALC
 Package Name:
 
 ```
-com.example.samcalc2
+com.example.samcalc
 ```
 
 ---
@@ -215,7 +215,7 @@ Place the generated APK inside that folder.
 
 ## Step 8
 
-Submit **only the GitHub repository link** through Moodle (or the learning platform specified by your lecturer).
+Submit **only the GitHub repository link**.
 
 Example:
 
