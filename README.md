@@ -1,2 +1,2 @@
-# Code Mentor
+# Code-Mentor
 Repository for all Software Engineering Activities
